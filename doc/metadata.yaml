@@ -7,8 +7,8 @@ images:
 - doc/img/LNA01A_bottom_big.jpg
 - doc/img/LNA01A_bottom_small.jpg
 - doc/img/frequency_response1.png
-- doc/img/frequency_response2.png
 - doc/img/LNA01A_QRcode.png
+- doc/img/frequency_response2.png
 - hw/cam_ama/front_panel.svg
 - hw/cam_ama/hole_pattern.svg
 - hw/cam_ama/front_panel_multi.svg
