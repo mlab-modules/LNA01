@@ -13,7 +13,7 @@ images:
 - hw/cam_ama/front_panel.svg
 - hw/cam_ama/hole_pattern.svg
 mark: 50
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
